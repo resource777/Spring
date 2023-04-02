@@ -12,7 +12,7 @@ public class Order {
         this.itemPrice = itemPrice;
         this.discountPrice = discountPrice;
     }
-
+    //git repo name change test
     /**
      * 계산 로직 추가
      */
